@@ -11,7 +11,6 @@ This repository contains the code, datasets, and analysis for the paper "Directe
 - [@bhuvighosh3](https://github.com/bhuvighosh3)
 - [@Atharv56](https://github.com/Atharv56)
 - [@HarshShetye]
-- [@ParthKapadia]
 
 
 ## Introduction
