@@ -7,7 +7,7 @@ This repository contains the code, datasets, and analysis for the paper "Directe
 
 ## Authors
 - Bhuvi Ghosh
-- Atharv
+- Atharv Salian
 - Harsh Shetye
 
 ## Introduction
