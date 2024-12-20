@@ -19,6 +19,10 @@ This project emphasizes the importance of traffic sign recognition in autonomous
   - Standardization and normalization of images.
   - Data augmentation, including the generation of adversarial examples to enhance training.
 
+<div style="display: inline-block; margin-right: 20px;">
+  <img src="Readme images/result.png" width="500" />
+</div>
+
 ## Methodology
 - **Model Training**:
   - VGG16 and ResNet50 architectures are trained on the Belgium Traffic Sign Dataset.
