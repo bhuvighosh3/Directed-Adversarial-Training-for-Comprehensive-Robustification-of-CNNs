@@ -3,7 +3,10 @@
 This repository contains the code, datasets, and analysis for the paper "Directed Adversarial Training for Comprehensive Robustification of CNNs." The project investigates the vulnerabilities of Convolutional Neural Networks (CNNs) to adversarial attacks and proposes a robust retraining method using adversarial examples. The experiments focus on traffic sign classification tasks, utilizing VGG16 and ResNet50 architectures.
 
 ## Paper Link
-[Directed Adversarial Training for Comprehensive Robustification of CNNs](https://ieeexplore.ieee.org/document/10723934)
+
+The paper has been published in IEEE Xplore. You can access it [here](https://ieeexplore.ieee.org/document/10723934).
+
+DOI: [10.1109/ICCCNT61001.2024.10723934](https://doi.org/10.1109/ICCCNT61001.2024.10723934)
 
 ## Authors
 - Bhuvi Ghosh
