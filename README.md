@@ -20,7 +20,7 @@ This project emphasizes the importance of traffic sign recognition in autonomous
   - Data augmentation, including the generation of adversarial examples to enhance training.
 
 <div style="display: inline-block; margin-right: 20px;">
-  <img src="Readme images/result.png" width="500" />
+  <img src="Readme images/image2.png" width="500" />
 </div>
 
 ## Methodology
