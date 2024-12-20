@@ -14,10 +14,7 @@ This repository contains the code, datasets, and analysis for the paper "Directe
 This project emphasizes the importance of traffic sign recognition in autonomous systems and explores the vulnerabilities of CNNs to adversarial attacks. It highlights the effectiveness of white-box attacks, including FGSM, PGD, DeepFool, and Carlini & Wagner (C&W), and proposes directed adversarial training as a solution for improving CNN robustness.
 
 ## Dataset Preparation
-- **Dataset**: Belgium Traffic Sign Dataset with over 50,000 images across 62 traffic sign classes.
-- **Preprocessing**:
-  - Standardization and normalization of images.
-  - Data augmentation, including the generation of adversarial examples to enhance training.
+The Belgium Traffic Sign Dataset with over 50,000 images across 62 traffic sign classes was used in this research project.
 
 <div style="display: inline-block; margin-right: 20px;">
   <img src="Readme images/image2.png" width="500" />
