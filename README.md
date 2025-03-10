@@ -10,8 +10,8 @@ DOI: [10.1109/ICCCNT61001.2024.10723934](https://doi.org/10.1109/ICCCNT61001.202
 
 ## Authors
 - Bhuvi Ghosh
-- Atharv Salian
 - Harsh Shetye
+- Atharv Salian
 
 ## Introduction
 This project emphasizes the importance of traffic sign recognition in autonomous systems and explores the vulnerabilities of CNNs to adversarial attacks. It highlights the effectiveness of white-box attacks, including FGSM, PGD, DeepFool, and Carlini & Wagner (C&W), and proposes directed adversarial training as a solution for improving CNN robustness.
